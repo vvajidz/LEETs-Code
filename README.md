@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vvajidz/LEETs-Code/tree/master/0242-valid-anagram) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/vvajidz/LEETs-Code/tree/master/1791-richest-customer-wealth) |
 ## Matrix
 |  |
