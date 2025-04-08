@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vvajidz/LEETs-Code/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/vvajidz/LEETs-Code/tree/master/1791-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/vvajidz/LEETs-Code/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
