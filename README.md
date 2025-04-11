@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vvajidz/LEETs-Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vvajidz/LEETs-Code/tree/master/0088-merge-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/vvajidz/LEETs-Code/tree/master/1791-richest-customer-wealth) |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vvajidz/LEETs-Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vvajidz/LEETs-Code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
