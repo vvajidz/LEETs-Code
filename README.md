@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vvajidz/LEETs-Code/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/vvajidz/LEETs-Code/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/vvajidz/LEETs-Code/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/vvajidz/LEETs-Code/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/vvajidz/LEETs-Code/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/vvajidz/LEETs-Code/tree/master/0415-add-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vvajidz/LEETs-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/vvajidz/LEETs-Code/tree/master/0415-add-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vvajidz/LEETs-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
