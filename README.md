@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vvajidz/LEETs-Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vvajidz/LEETs-Code/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/vvajidz/LEETs-Code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/vvajidz/LEETs-Code/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vvajidz/LEETs-Code/tree/master/0920-uncommon-words-from-two-sentences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/vvajidz/LEETs-Code/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
