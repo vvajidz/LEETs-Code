@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vvajidz/LEETs-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vvajidz/LEETs-Code/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/vvajidz/LEETs-Code/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/vvajidz/LEETs-Code/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vvajidz/LEETs-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
