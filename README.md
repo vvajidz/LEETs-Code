@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vvajidz/LEETs-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vvajidz/LEETs-Code/tree/master/0137-single-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
+| [1603-running-sum-of-1d-array](https://github.com/vvajidz/LEETs-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/vvajidz/LEETs-Code/tree/master/1791-richest-customer-wealth) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vvajidz/LEETs-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vvajidz/LEETs-Code/tree/master/0118-pascals-triangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/vvajidz/LEETs-Code/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
