@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vvajidz/LEETs-Code/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/vvajidz/LEETs-Code/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vvajidz/LEETs-Code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1205-defanging-an-ip-address](https://github.com/vvajidz/LEETs-Code/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
 |  |
