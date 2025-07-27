@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/vvajidz/LEETs-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/vvajidz/LEETs-Code/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/vvajidz/LEETs-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vvajidz/LEETs-Code/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vvajidz/LEETs-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Matrix
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/vvajidz/LEETs-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vvajidz/LEETs-Code/tree/master/0415-add-strings) |
+| [2048-build-array-from-permutation](https://github.com/vvajidz/LEETs-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vvajidz/LEETs-Code/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vvajidz/LEETs-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
