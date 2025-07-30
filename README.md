@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vvajidz/LEETs-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vvajidz/LEETs-Code/tree/master/0137-single-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
+| [1505-create-target-array-in-the-given-order](https://github.com/vvajidz/LEETs-Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/vvajidz/LEETs-Code/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vvajidz/LEETs-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/vvajidz/LEETs-Code/tree/master/1635-number-of-good-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/vvajidz/LEETs-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vvajidz/LEETs-Code/tree/master/0415-add-strings) |
+| [1505-create-target-array-in-the-given-order](https://github.com/vvajidz/LEETs-Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/vvajidz/LEETs-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vvajidz/LEETs-Code/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vvajidz/LEETs-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
