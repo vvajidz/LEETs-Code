@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/vvajidz/LEETs-Code/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vvajidz/LEETs-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1899-count-items-matching-a-rule](https://github.com/vvajidz/LEETs-Code/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vvajidz/LEETs-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vvajidz/LEETs-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vvajidz/LEETs-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vvajidz/LEETs-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/vvajidz/LEETs-Code/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/vvajidz/LEETs-Code/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/vvajidz/LEETs-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vvajidz/LEETs-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vvajidz/LEETs-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
