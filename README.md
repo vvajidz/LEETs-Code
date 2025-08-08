@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/vvajidz/LEETs-Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vvajidz/LEETs-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vvajidz/LEETs-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/vvajidz/LEETs-Code/tree/master/1635-number-of-good-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vvajidz/LEETs-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vvajidz/LEETs-Code/tree/master/0137-single-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vvajidz/LEETs-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vvajidz/LEETs-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/vvajidz/LEETs-Code/tree/master/1505-create-target-array-in-the-given-order) |
