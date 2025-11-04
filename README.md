@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vvajidz/LEETs-Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vvajidz/LEETs-Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vvajidz/LEETs-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vvajidz/LEETs-Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vvajidz/LEETs-Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vvajidz/LEETs-Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vvajidz/LEETs-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vvajidz/LEETs-Code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/vvajidz/LEETs-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vvajidz/LEETs-Code/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/vvajidz/LEETs-Code/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vvajidz/LEETs-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vvajidz/LEETs-Code/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vvajidz/LEETs-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/vvajidz/LEETs-Code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vvajidz/LEETs-Code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/vvajidz/LEETs-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vvajidz/LEETs-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
