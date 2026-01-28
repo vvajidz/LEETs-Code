@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vvajidz/LEETs-Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vvajidz/LEETs-Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/vvajidz/LEETs-Code/tree/master/0414-third-maximum-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vvajidz/LEETs-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vvajidz/LEETs-Code/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/vvajidz/LEETs-Code/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/vvajidz/LEETs-Code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vvajidz/LEETs-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/vvajidz/LEETs-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vvajidz/LEETs-Code/tree/master/1392-find-the-difference-of-two-arrays) |
